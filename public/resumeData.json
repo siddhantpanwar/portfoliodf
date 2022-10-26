@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name": "Siddhant Panwar",
+    "occupation": "CEO of New Horizon",
+    "description": "Love Yours",
+    "image": "profile.jpg",
+    "bio": "Welcome, I’m siddhant so from here I started when I was 12 in 8 standards. I got some suggestions from my friend and my uncle. he guides me, how things work! and very much, I learned lots of things from him. so I just started my coding session, Learning languages is not easy at all, but I just give my best. lots of thoughts are there in my mind. I got into trouble with many things. but I didn’t stop, I started taking coding sessions and advice. and growing and growing. So after that, I started web development and now I’m able to make websites and money with that, and I’m still learning, no one is perfect in the coding,",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "siddhantpanwat225@gmail.com",
+    "phone": "+91 7668690998",
+    "address": {
+      "street": "Main",
+      "city": "India",
+      "state": "UK",
+      "zip": "248001"
+    },
+    "website": "https://www.siddhantpanwar.tech",
+    "resumedownload": "http://www.siddhantpanwar.tech",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC8Lhuw5m6kRn0501qiNKcSA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/siddhant.panwar.562",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/siddhant_panwar010101/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/siddhantpanwar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "St. Kabeer Academy",
+        "degree": "In School",
+        "graduated": "July 2022",
+        "description": "Studying in 11th Grade"
+      }
+    ],
+    "work": [
+      {
+        "company": "New Horizon",
+        "title": "CTO & Co-Founder",
+        "years": "July 2020 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "79%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instagram Clone (CSS)",
+        "category": "",
+        "image": "loader.jpg",
+        "url": "http://siddhantpanwar.tech/material/"
+      },
+      {
+        "title": "Nike Store (Tailwind)",
+        "category": "",
+        "url": "http://siddhantpanwar.tech/material/"
+      },
+      {
+        "title": "Adele Hues Perfumes (CSS)",
+        "category": "",
+        "url": "http://siddhantpanwar.tech/material/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Best Work",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Making things esay to do, !",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
